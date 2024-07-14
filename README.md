@@ -14,3 +14,5 @@
 - Made strings.cpp -- Learned various operations related to strings.
 - Made numbers.cpp -- Learned vaious maths operation and maths function.
 - Made user_input.cpp -- Learned how to take user input in c++.
+- Made calculator_1.cpp -- Made a simple calculator.
+- Made mad_libs.cpp -- Made a mad libs game.
