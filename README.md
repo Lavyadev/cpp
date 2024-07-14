@@ -4,4 +4,5 @@
 
 - Made the Repository c++.
 - Made README file
-- Made hello world.cpp -- 1. Learned basic cpp program of hello world.
+- Made hello_world.cpp -- Learned basic cpp program of hello world.
+- Made shape.cpp -- Learned basic use of cout and endl.
