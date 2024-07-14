@@ -12,3 +12,4 @@
 - Made variables.cpp -- Learned declaration of variables and their uses.
 - Made data_types.cpp -- Learned different types of data types in c++.
 - Made strings.cpp -- Learned various operations related to strings.
+- Made numbers.cpp -- Learned vaious maths operation and maths function.
