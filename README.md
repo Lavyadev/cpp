@@ -21,4 +21,5 @@
 
 ### 15 July 2024
 
-- Made arrays.cpp -- 
+- Made arrays.cpp -- Learned basic operations on arrays in c++.
+- Made functions.cpp -- Learned uses of creating diferent functions in c++.
