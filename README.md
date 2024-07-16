@@ -32,3 +32,4 @@
 - Made calc.cpp -- Made a advanced calc using c++ concepts.
 - Made switch_statements.cpp -- Learned uses of switch statements in C++.
 - Made while_loops.cpp -- Learned basic use of while loops.
+- Made guessing_game.cpp -- 
