@@ -25,3 +25,8 @@
 - Made functions.cpp -- Learned uses of creating diferent functions in c++.
 - Made return.cpp -- Learned use of return statement in c++.
 - Made if_statements.cpp -- Learned various uses of if statements in c++.
+
+
+### 16 July 2024
+
+- Made calc.cpp -- Made a advanced calc using c++ concepts.
