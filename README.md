@@ -39,4 +39,4 @@
 
 - Made exponent.cpp -- Made a program to calculate exponential function using for loops.
 - Made 2d_&_loops.cpp -- Learned what is 2D array and how to input 2D array using nested loops.
-- Made comments.cpp -- 
+- Made comments.cpp -- Learned what are comments and how to use them.
