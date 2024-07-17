@@ -37,4 +37,5 @@
 
 ### 17 July 2024
 
-- Made exponent.cpp -- 
+- Made exponent.cpp -- Made a program to calculate exponential function using for loops.
+- Made 2d_&_loops.cpp -- 
