@@ -43,3 +43,17 @@
 - Made pointers.cpp -- Learned pointers in c++.
 
 BASICS COMPLETE.
+
+## Data Structures and Algorithms
+
+### 18 July 2024
+
+- Learned Analysis of Algorithms (Background).
+- Learned Asymptotic Analysis.
+- Learned Order of Growth.
+
+### 19 July 2024
+
+- Learned best, average and worst cases for algorithms.
+- Learned Asymptotic Notations.
+
